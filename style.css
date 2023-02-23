@@ -39,7 +39,7 @@
 /* iPhone 11 - Xr */
 @media only screen 
     and (width: 414px) 
-    and (height: 896px) 
+ 
     and (-webkit-device-pixel-ratio: 2) {
         img{
             max-width: 100%;
@@ -50,7 +50,7 @@
 /* iPhone 11 Pro Max- Xs Pro Max */
 @media only screen 
     and (width: 414px) 
-    and (height: 896px) 
+
     and (-webkit-device-pixel-ratio: 3) { 
         img{
             max-width: 100%;
@@ -61,7 +61,7 @@
 /* iPhone 14 Pro Max - 13 Pro Max - 12 Pro Max */
 @media only screen 
     and (width: 430px) 
-    and (height: 926px) 
+
     and (-webkit-device-pixel-ratio: 3) {
         img{
             max-width: 100%;
